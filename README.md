@@ -34,5 +34,3 @@ git clone https://github.com/nathnaguiar/selflearningproject-NathaliaAguiar.git
 cd selflearningproject-NathaliaAguiar
 npm install
 npm run dev
-
-by Nathalia Aguiar
